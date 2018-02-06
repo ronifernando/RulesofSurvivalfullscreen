@@ -1,0 +1,8 @@
+D:\Ros C#\Rules of Survival Fullscreen\obj\Release\Rules_of_Survival_Fullscreen.Main.resources
+D:\Ros C#\Rules of Survival Fullscreen\obj\Release\Rules_of_Survival_Fullscreen.Properties.Resources.resources
+D:\Ros C#\Rules of Survival Fullscreen\obj\Release\Rules of Survival Fullscreen.csproj.GenerateResource.Cache
+D:\Ros C#\Rules of Survival Fullscreen\bin\Release\Rules of Survival Fullscreen V0.2.exe.config
+D:\Ros C#\Rules of Survival Fullscreen\bin\Release\Rules of Survival Fullscreen V0.2.exe
+D:\Ros C#\Rules of Survival Fullscreen\bin\Release\Rules of Survival Fullscreen V0.2.pdb
+D:\Ros C#\Rules of Survival Fullscreen\obj\Release\Rules of Survival Fullscreen V0.2.exe
+D:\Ros C#\Rules of Survival Fullscreen\obj\Release\Rules of Survival Fullscreen V0.2.pdb
