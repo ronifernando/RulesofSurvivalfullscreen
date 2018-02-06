@@ -1,4 +1,4 @@
 # RulesofSurvivalfullscreen
 
 
-![Image of Yaktocat](https://octodex.github.com/ronifernando/RulesofSurvivalfullscreen/blob/master/Capture.PNG)
+![SS](https://raw.githubusercontent.com/ronifernando/RulesofSurvivalfullscreen/master/Capture.PNG)
