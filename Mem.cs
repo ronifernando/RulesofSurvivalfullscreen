@@ -12,7 +12,6 @@ namespace Rules_of_Survival_Fullscreen
     {
         public static Process m_Process;
         public static IntPtr m_pProcessHandle;
-        public static int BaseAddress;
 
         public static void Initialize(string ProcessName)
         {
