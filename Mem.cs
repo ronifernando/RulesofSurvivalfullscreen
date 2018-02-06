@@ -10,14 +10,9 @@ namespace Rules_of_Survival_Fullscreen
 {
     public class Mem
     {
-        public static int m_iNumberOfBytesRead = 0;
-        public static int m_iNumberOfBytesWritten = 0;
         public static Process m_Process;
         public static IntPtr m_pProcessHandle;
         public static int BaseAddress;
-        private const int PROCESS_VM_OPERATION = 8;
-        private const int PROCESS_VM_READ = 16;
-        private const int PROCESS_VM_WRITE = 32;
 
         public static void Initialize(string ProcessName)
         {
